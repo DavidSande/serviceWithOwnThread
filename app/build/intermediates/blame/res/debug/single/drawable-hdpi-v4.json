@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_neutral.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\src\\main\\res\\drawable-hdpi\\stat_neutral.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_happy.png",
+        "source": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\src\\main\\res\\drawable-hdpi\\stat_happy.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_sad.png",
+        "source": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\src\\main\\res\\drawable-hdpi\\stat_sad.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_happy.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\src\\main\\res\\drawable-hdpi\\android_happy.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_happy.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\src\\main\\res\\drawable-hdpi\\stat_happy.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_neutral.png",
+        "source": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\src\\main\\res\\drawable-hdpi\\stat_neutral.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_sad.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_service\\app\\src\\main\\res\\drawable-hdpi\\stat_sad.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_happy.png",
+        "source": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\service\\app\\src\\main\\res\\drawable-hdpi\\android_happy.png"
+    }
+]

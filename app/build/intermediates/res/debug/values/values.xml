@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/html/jPassion/6138_android_service/android_service/samples/Service_LocalService_Start_Thread/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="activity_local_service_controller">service_LocalService_Start_Thread</string>
+    <string name="app_name">Service_LocalService_Start_Thread</string>
+    <string name="custom_notification">Custom Notification:</string>
+    <string name="custom_notification_button">With a Button</string>
+    <string name="local_service_controller">This demonstrates how you can implement persistent services that
+        may be started and stopped as desired.</string>
+    <string name="long_notification">Long notification.</string>
+    <string name="long_notification_text">This is a long notification.  See, you might need a second more to read it.</string>
+    <string name="notifying_service_controller">This service will update a status bar notification
+                  every 5 seconds for a minute</string>
+    <string name="short_bottom_notification">Short bottom.</string>
+    <string name="short_center_notification">Short center.</string>
+    <string name="short_left_notification">Short left.</string>
+    <string name="short_notification">Short notification.</string>
+    <string name="short_notification_text">Short notification</string>
+    <string name="short_right_notification">Short right.</string>
+    <string name="short_top_notification">Short top.</string>
+    <string name="start_service">Start Service</string>
+    <string name="status_bar_notification_title">Sample Notification</string>
+    <string name="status_bar_notifications_clear">Clear notification</string>
+    <string name="status_bar_notifications_default_all">All</string>
+    <string name="status_bar_notifications_default_sound">Sound</string>
+    <string name="status_bar_notifications_default_vibrate">Vibrate</string>
+    <string name="status_bar_notifications_defaults">Use default values where applicable</string>
+    <string name="status_bar_notifications_happy">:-)</string>
+    <string name="status_bar_notifications_happy_message">I am happy</string>
+    <string name="status_bar_notifications_icons_and_marquee">Icons and marquee</string>
+    <string name="status_bar_notifications_icons_only">Icons only</string>
+    <string name="status_bar_notifications_mood_title">Mood ring</string>
+    <string name="status_bar_notifications_ok">:-|</string>
+    <string name="status_bar_notifications_ok_message">I am ok</string>
+    <string name="status_bar_notifications_remote_views">Use remote views in balloon</string>
+    <string name="status_bar_notifications_sad">:-(</string>
+    <string name="status_bar_notifications_sad_message">I am sad</string>
+    <string name="status_bar_notifications_title">Mood Notification</string>
+    <string name="stop_service">Stop Service</string>
+    <!-- From: file:/C:/html/jPassion/6138_android_service/android_service/samples/Service_LocalService_Start_Thread/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
